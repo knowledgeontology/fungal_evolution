@@ -8,7 +8,7 @@ proteins into 27 sequences related to 27 fungal species.<br>
 'Treepuzzle_outfile ' is the output of the analysis.<br> 
 
 <b>2 Matlab Clustering Analysis:</b><br> 
-The file 'Data_for_clustering_analysis.mat'  contains the matrix data and label data for clustering analysis.<br> 
+The file 'Data_for_clustering_analysis.mat'  contains the protein-content matrix data and the species' label data for clustering analysis.<br> 
 The sample Matlab Scripts are as follows(using cell wall proteins' matrix  for a sample analysis):<br> 
 >> load Data_for_clustering_analysis.mat<br> 
 >> Y = pdist(cellwall','correlation');<br> 
