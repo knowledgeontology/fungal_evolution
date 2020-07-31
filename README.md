@@ -2,7 +2,7 @@ This repository contains alignment files and scripts to reproduce the paper,<b> 
 
 <b>1 TreePuzzle Analysis:</b><br> 
 'spe27.phylip' is the input file of Treepuzzle analysis,which combine alignments of 455 single-copy orthologous<br> 
-proteins into 27 sequences related to 27 species.<br> 
+proteins into 27 sequences related to 27 fungal species.<br> 
 <b>Then use the following script:</b>   /home/ghx/puzzletree/puzzle   /home/ghx/puzzletree/spe27.phylip<br> 
 <b>Notice:</b>  you should change '/home/ghx/puzzletree/'  to  your own work space<br> 
 'Treepuzzle_outfile ' is the output of the analysis.<br> 
