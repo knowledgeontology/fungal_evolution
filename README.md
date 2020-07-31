@@ -1,4 +1,4 @@
-This repository contains alignment files and scripts to reproduce the paper,<b> "Congruence amidst discordance between sequence and protein-content based phylogenies of fungi"</b>
+This repository contains alignment files for phenograms and Matlab scripts to reproduce the paper,<b> "Congruence amidst discordance between sequence and protein-content based phylogenies of fungi"</b>
 
 <b>1 TreePuzzle Analysis:</b><br> 
 'spe27.phylip' is the input file of Treepuzzle analysis,which combine alignments of 455 single-copy orthologous<br> 
