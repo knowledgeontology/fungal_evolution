@@ -1,4 +1,4 @@
-This repository contains alignment files and scripts for reproduce the paper,<b> "Congruence amidst discordance between sequence and protein-content based phylogenies of fungi"</b>
+This repository contains alignment files and scripts to reproduce the paper,<b> "Congruence amidst discordance between sequence and protein-content based phylogenies of fungi"</b>
 
 <b>1 TreePuzzle Analysis:</b><br> 
 use the following script:   /home/ghx/puzzletree/puzzle   /home/ghx/puzzletree/spe27.phylip<br> 
