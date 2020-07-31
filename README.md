@@ -1,8 +1,8 @@
 This repository contains alignment files and scripts to reproduce the paper,<b> "Congruence amidst discordance between sequence and protein-content based phylogenies of fungi"</b>
 
 <b>1 TreePuzzle Analysis:</b><br> 
-'spe27.phylip' is input file of Treepuzzle analysis,which combine alignments of 455 single-copy orthologous proteins into <br> 
-27 sequences related to 27 species.<br> 
+'spe27.phylip' is the input file of Treepuzzle analysis,which combine alignments of 455 single-copy orthologous<br> 
+proteins into 27 sequences related to 27 species.<br> 
 use the following script:   /home/ghx/puzzletree/puzzle   /home/ghx/puzzletree/spe27.phylip<br> 
 notice:  you should change '/home/ghx/puzzletree/'  to  your own work space<br> 
 Treepuzzle_outfile  is the output of the analysis.<br> 
