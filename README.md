@@ -3,9 +3,9 @@ This repository contains alignment files and scripts to reproduce the paper,<b> 
 <b>1 TreePuzzle Analysis:</b><br> 
 'spe27.phylip' is the input file of Treepuzzle analysis,which combine alignments of 455 single-copy orthologous<br> 
 proteins into 27 sequences related to 27 species.<br> 
-use the following script:   /home/ghx/puzzletree/puzzle   /home/ghx/puzzletree/spe27.phylip<br> 
-notice:  you should change '/home/ghx/puzzletree/'  to  your own work space<br> 
-Treepuzzle_outfile  is the output of the analysis.<br> 
+<b>Then use the following script:</b>   /home/ghx/puzzletree/puzzle   /home/ghx/puzzletree/spe27.phylip<br> 
+<b>Notice:</b>  you should change '/home/ghx/puzzletree/'  to  your own work space<br> 
+'Treepuzzle_outfile ' is the output of the analysis.<br> 
 
 <b>2 Matlab Clustering Analysis:</b><br> 
 The file 'Data_for_clustering_analysis.mat'  contains the matrix data and label data for clustering analysis.<br> 
