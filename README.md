@@ -16,7 +16,7 @@ The sample Matlab Scripts are as follows(using cell wall proteins' matrix  for a
 >> dendrogram(Z,'Labels',label)<br> 
 
 After the analysis, you can save the tree file 'CellWallTree.pdf'.<br> 
-Analysis of other matrixs is similar ,just change the input matrix data.<br> 
+Analysis of other matrices is similar ,just change the input matrix data.<br> 
 
 
 
